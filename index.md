@@ -1,4 +1,12 @@
 ---
-title: Welcome to my blog
+title: Welcome 
 ---
-
+social media
+---
+about me
+---
+experience
+---
+skills
+---
+projects
